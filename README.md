@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Profile 3D Contrib](https://raw.githubusercontent.com/shinyoung-blip/shinyoung-blip/main/profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub Profile 3D Contrib](https://raw.githubusercontent.com/shinyoung-blip/shinyoung-blip/main/profile-3d-contrib/profile-gitblock.svg)
