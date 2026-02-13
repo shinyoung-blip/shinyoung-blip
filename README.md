@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Profile 3D Contrib](https://raw.githubusercontent.com/shinyoung-blip/shinyoung-blip/main/profile-3d-contrib/profile-gitblock.svg)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyoung-blip&show_icons=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shinyoung-blip)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyoung-blip&layout=compact)
