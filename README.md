@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyoung-blip&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyoung-blip&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shinyoung-blip)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyoung-blip&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyoung-blip&layout=compact&theme=tokyonight)
