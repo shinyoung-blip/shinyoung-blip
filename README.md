@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-## 📊 GitHub Stats
+## 🌈 3D Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shinyoung-blip&show_icons=true&include_all_commits=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shinyoung-blip&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shinyoung-blip&theme=tokyonight" />
-</p>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
